@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "mhha.sample.numbercount"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "mhha.sample.numbercount"
